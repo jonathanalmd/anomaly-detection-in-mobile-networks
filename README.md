@@ -2,3 +2,6 @@
 Data-driven Anomaly Detection with Traffic Pattern Categorization in Mobile Cellular Networks
 
 Anomalies in the network can cause network faults and consequent cell outages, a major reason for operational cost increase and revenue loss for operators. Nonetheless, network faults and cell outages can be avoided by monitoring abnormal situations in the network and acting accordingly. Anomaly detection is an important component of self-healing control. We propose an unsupervised learning solution for anomaly detection in mobile networks using Call Detail Record (CDR) data. We evaluate our solution using a real CDR data set provided by an Italian operator and compare it against other state-of-the-art solutions, showing a performance improvement of around 35%. We also demonstrate the relevance of considering the distinct traffic patterns of different geographic regions for anomaly detection in mobile networks, an aspect often ignored in the literature.
+
+The CDR dataset is available in https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EGZHFV
+The geojson data is available in https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QJWLFU
