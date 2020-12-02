@@ -1,4 +1,10 @@
 # History files
+.DS_Store
+*.pdf
+*.csv
+*.geojson
+*.npy
+*.pyc
 .Rhistory
 .Rapp.history
 
