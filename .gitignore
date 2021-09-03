@@ -2,7 +2,7 @@
 .DS_Store
 *.pdf
 *.csv
-*.geojson
+#*.geojson
 *.npy
 *.pyc
 .Rhistory
